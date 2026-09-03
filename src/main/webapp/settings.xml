@@ -1,0 +1,33 @@
+<settings>
+<servers>
+  <server>
+    <id>domain-my-repo</id>
+    <username>aws</username>
+    <password>${env.CODEARTIFACT_AUTH_TOKEN}</password>
+  </server>
+</servers>
+
+<profiles>
+  <profile>
+    <id>domain-my-repo</id>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
+    <repositories>
+      <repository>
+        <id>domain-my-repo</id>
+        <url>https://domain-093529868553.d.codeartifact.us-east-1.amazonaws.com/maven/my-repo/</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
+
+<mirrors>
+  <mirror>
+    <id>domain-my-repo</id>
+    <name>domain-my-repo</name>
+    <url>https://domain-093529868553.d.codeartifact.us-east-1.amazonaws.com/maven/my-repo/</url>
+    <mirrorOf>*</mirrorOf>
+  </mirror>
+</mirrors>
+</settings>
