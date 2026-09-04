@@ -81,4 +81,7 @@ GitHub Push ---> CodeArtifact ---> CodeBuild ---> CodeDeploy ---> CodePipeline -
 
 <img width="614" height="679" alt="Screenshot 2026-09-04 031254" src="https://github.com/user-attachments/assets/e6bc725d-c0da-4be3-b51b-a0d898af41ac" />
 
+### Successful Commit
+
+<img width="746" height="207" alt="Screenshot 2026-09-04 034526" src="https://github.com/user-attachments/assets/fbcc4b1f-d3c7-41e5-9a92-90187431260f" />
 
