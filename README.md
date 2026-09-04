@@ -67,18 +67,18 @@ GitHub Push ---> CodeArtifact ---> CodeBuild ---> CodeDeploy ---> CodePipeline -
 ## Screenshots
 ### Live Application
 
-![Live App](<img width="740" height="253" alt="Screenshot 2026-09-04 033101" src="https://github.com/user-attachments/assets/a09198ab-ea26-4b35-927b-635ee40c6ec8" />)
+(<img width="740" height="253" alt="Screenshot 2026-09-04 033101" src="https://github.com/user-attachments/assets/a09198ab-ea26-4b35-927b-635ee40c6ec8" />)
 
 ### CodePipeline - All Stages Green
 
-![Pipeline](<img width="881" height="472" alt="Screenshot 2026-09-04 032418" src="https://github.com/user-attachments/assets/7c118eec-7961-493b-b9ff-425b2f7e780c" />)
+(<img width="881" height="472" alt="Screenshot 2026-09-04 032418" src="https://github.com/user-attachments/assets/7c118eec-7961-493b-b9ff-425b2f7e780c" />)
 
 ### CodeBuild - Successful Build
 
-![CodeBuild](<img width="587" height="478" alt="Screenshot 2026-09-04 031142" src="https://github.com/user-attachments/assets/1d6a3968-527d-420d-b6ec-1f7529a3f54c" />)
+(<img width="587" height="478" alt="Screenshot 2026-09-04 031142" src="https://github.com/user-attachments/assets/1d6a3968-527d-420d-b6ec-1f7529a3f54c" />)
 
 ### CodeDeploy - Successful Deployment
 
-![CodeDeploy](<img width="614" height="679" alt="Screenshot 2026-09-04 031254" src="https://github.com/user-attachments/assets/e6bc725d-c0da-4be3-b51b-a0d898af41ac" />)
+(<img width="614" height="679" alt="Screenshot 2026-09-04 031254" src="https://github.com/user-attachments/assets/e6bc725d-c0da-4be3-b51b-a0d898af41ac" />)
 
 
